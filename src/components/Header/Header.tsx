@@ -4,6 +4,7 @@ import { motion } from 'framer-motion'
 import Link from 'next/link'
 import { socialNetworks } from './dataHeader'
 import Image from 'next/image'
+import logoSator from "/assets/logosator.png"
 
 export function Header() {
     return (
@@ -21,7 +22,7 @@ export function Header() {
                         
                     </Link>
                     <div className=" flex items-center justify-center gap-7">
-                    <Image src="/assets/logosator.png" alt="logo sator" width="40" height="40" />
+                    <Image src={logoSator} alt="logo sator" width="40" height="40" />
                         {socialNetworks.map(({ logo, src }) => (
                             <Link key={src} href={src} target="_blank" className="transition-all duration-300 hover:text-secondary">
                                 {logo}

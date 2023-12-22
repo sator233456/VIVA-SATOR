@@ -2,6 +2,7 @@ import { fadeIn } from '@/utils/motionTransitions'
 import { motion } from 'framer-motion'
 import Image from 'next/image'
 import BitcoinPrice from '@/components/BTCprice/BitcoinPrice';
+import Logo from "/assets/322738.png"
 
 export function Introduction() {
     return (
@@ -14,7 +15,7 @@ export function Introduction() {
                         animate="show"
                         exit="hidden"
                     >
-                        <Image src="/assets/322738.png" priority width="500" height="600" alt="Avatar" />
+                        <Image src={Logo} priority width="500" height="600" alt="Avatar" />
                     </motion.div>
 
                     <motion.div variants={fadeIn("left", 0.5)}
