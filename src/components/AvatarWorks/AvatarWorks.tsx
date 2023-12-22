@@ -2,7 +2,7 @@
 import { fadeIn } from '@/utils/motionTransitions'
 import { motion } from 'framer-motion'
 import Image from 'next/image'
-import satorSpace2 from "/assets/satorspace2.png"
+import satorSpace2 from "public/assets/satorspace2.png"
 
 export function AvatarWorks() {
 

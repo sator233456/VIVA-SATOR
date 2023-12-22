@@ -2,7 +2,7 @@
 import { fadeIn } from '@/utils/motionTransitions'
 import { motion } from 'framer-motion'
 import Image from 'next/image'
-import logoSator from "/assets/logosator.png"
+import logoSator from "public/assets/logosator.png"
 
 export function Avatar() {
     return (

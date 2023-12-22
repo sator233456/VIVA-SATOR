@@ -2,7 +2,7 @@
 import { fadeIn } from '@/utils/motionTransitions'
 import { motion } from 'framer-motion'
 import Image from 'next/image'
-import satorSpace3 from "/assets/satorspace3.png"
+import satorSpace3 from "public/assets/satorspace3.png"
 
 export function Circle() {
     return (

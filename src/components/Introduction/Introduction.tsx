@@ -2,7 +2,7 @@ import { fadeIn } from '@/utils/motionTransitions'
 import { motion } from 'framer-motion'
 import Image from 'next/image'
 import BitcoinPrice from '@/components/BTCprice/BitcoinPrice';
-import Logo from "/assets/322738.png"
+import Logo from "public/assets/322738.png"
 
 export function Introduction() {
     return (

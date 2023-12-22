@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import Link from 'next/link'
 import { socialNetworks } from './dataHeader'
 import Image from 'next/image'
-import logoSator from "/assets/logosator.png"
+import logoSator from "public/assets/logosator.png"
 
 export function Header() {
     return (
