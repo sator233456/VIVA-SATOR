@@ -4,7 +4,7 @@ import 'swiper/css/pagination'
 import 'swiper/css/scrollbar'
 import { Pagination } from "swiper/modules"
 import { testimonialsData } from "./TeamSlider.data"
-import Image from "next/image"
+
 
 
 

@@ -20,7 +20,7 @@ export function Tokenomics() {
                 transition={motionTransitionsAbout.transition}
             >
                 <h1 className="mb-6 md:text-4xl">Tokenomics 21M $ATOR: <br /> <span className="text-secondary">Crafting Destiny in Decentralized Finance</span></h1>
-                <p> the rise of Sator Coin echoes the mystical allure of palindromes. Minted on the unyielding Bitcoin network, this token is more than a digital asset; it's a journey into the symmetrical realms of decentralized destiny. We unveil a blueprint meticulously designed for scalability and sustainability.  </p>
+                <p> the rise of Sator Coin echoes the mystical allure of palindromes. Minted on the unyielding Bitcoin network, this token is more than a digital asset; it is a journey into the symmetrical realms of decentralized destiny. We unveil a blueprint meticulously designed for scalability and sustainability.  </p>
 
                 <div className="grid justify-between grid-cols-2 gap-3 my-8 md:flex md:grid-cols-4 md:gap-6">
                     {dataCounter.map(({ id, endCounter, text, lineRight, lineRightMobile }) => (

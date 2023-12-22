@@ -33,10 +33,10 @@ export function Introduction() {
                             <BitcoinPrice /> 
                             </div>
                         <p className="max-w-sm  mb-10 text-xl md:max-w-2xl md:mx-0 md:mb-16 md:text-l">
-                        $ator is not just a token; it's a journey inspired by the ancient enigma of the <b>Sator palindrome.</b> Delve into the depths of crypto possibilities with a token that embodies the spirit of choice, destiny, and the cosmic dance of the decentralized universe.
+                        $ator is not just a token; it is a journey inspired by the ancient enigma of the <b>Sator palindrome.</b> Delve into the depths of crypto possibilities with a token that embodies the spirit of choice, destiny, and the cosmic dance of the decentralized universe.
                         </p>
                         <div >
-                        <p className="px-6 py-3 my-2 transition-all border-2 cursor-pointer w-fit rounded-xl hover:shadow-xl hover:shadow-white/50" ><a href='https://cybord.org/#overview-of-cbrc-20-features' target='_blank'>What's cbrc-20 metaprotocol on btcoin?</a></p>
+                        <p className="px-6 py-3 my-2 transition-all border-2 cursor-pointer w-fit rounded-xl hover:shadow-xl hover:shadow-white/50" ><a href='https://cybord.org/#overview-of-cbrc-20-features' target='_blank'>What is cbrc-20 metaprotocol on btcoin?</a></p>
                         </div>
                         
 
