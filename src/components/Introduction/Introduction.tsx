@@ -42,7 +42,7 @@ export function Introduction() {
                         
 
                         <div className="flex flex-col items-center gap-3 md:gap-10 md:flex-row">
-                            <a href="https://ordinalnovus.com/cbrc-20/ator" target="_blank"  className="px-6 py-3 my-2 transition-all border-2 cursor-pointer w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
+                            <a href="https://magiceden.io/ordinals/wallet?walletAddress=bc1q0u8al9d5dddd9rswz5w7n5c4d4mk5uq6e5vays" target="_blank"  className="px-6 py-3 my-2 transition-all border-2 cursor-pointer w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                                 Buy $ATOR
                             </a> 
                             <a href="https://ordinals.com/inscription/d95b2098e05e15fc027405e22209ddbaf5ee990345f21cb804b24ef1004c3c8ai0" target="_blank" className="px-6 py-3 my-2 transition-all border-2 cursor-pointer text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary">
